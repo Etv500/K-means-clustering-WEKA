@@ -13,7 +13,6 @@ public class readme {
 		
 		isjava ();
 		
-
 	}
 	
 	public static void isjava () {
