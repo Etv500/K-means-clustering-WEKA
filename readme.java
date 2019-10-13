@@ -1,0 +1,1 @@
+/*A simple exercise in which K-means clustering (WEKA) is applied to a data set. Report and dataset attached. You can get your WEKA .jar as well when downloading the repository.*/
